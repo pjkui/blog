@@ -1,7 +1,7 @@
 # Site settings
-title: 我的博客——潘小潘
-email: pjkui@qq.com
-description: > 这个地方应该是放一些你对你的博客的描述性东西，比如这个博客很牛逼！一写代码就炸飞机。
+title: "潘小潘的博客"
+email: "pjkui@qq.com"
+description: "这个地方应该是放一些你对你的博客的描述性东西，比如这个博客很牛逼！一写代码就炸飞机。"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pjkui.github.com" # the base hostname & protocol for your site
 twitter_username: pjkui

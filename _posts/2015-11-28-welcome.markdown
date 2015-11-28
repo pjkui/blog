@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "欢迎来到我的博客，我准备把发布到github上"
+date:   2015-11-28 16:24:01
+categories: jekyll update
+---
+这是我的第一篇博客的内容，我也不知道写啥。
+``` 
+print "Hello world!"
+```
+用的框架是jekyll。一个很好用的github建站框架。

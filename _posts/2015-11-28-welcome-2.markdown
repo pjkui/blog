@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "欢迎来到我的博客，这是第二篇文章"
+date:   2015-11-28 15:24:01
+categories: jekyll update
+---
+这是我的第2篇博客的内容，我也不知道写啥。于是我就抄了第一篇的内容，哇咔咔
+``` 
+print "Hello world!"
+```
+用的框架是jekyll。一个很好用的github建站框架。
